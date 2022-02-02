@@ -36,6 +36,9 @@ Our framework achieves the following performance:
 
 tbd
 
+## GitHub Page
+Additional information about method and dataset can be found [here](https://tiborkubik.github.io/Robust-Teeth-Detection-in-3D-Dental-Scans/).
+
 ## Citation
 
 If you find this code useful, please cite our paper:
