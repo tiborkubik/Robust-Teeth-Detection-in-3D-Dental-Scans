@@ -28,12 +28,12 @@ This will train the Attention U-Net model on a dataset of depth maps and geometr
 To evaluate the best-performing model (Attention U-Net), run:
 
 ```
-python evaluate.py --mode="performance" --path="../test-data/" --network-path="../saved-models/Att-UNet-depth-geom.pt" --network-name="AttentionUNet"
+python evaluate.py --path="../test-data/" --network-path="../saved-models/AttUNet-depth-geom.pt" --network-name="AttentionUNet" --input-format="depth+geom"
 ```
 In performance mode, the performance measurements are collected and analyzed. Path specifies the folder containing `stl` meshes for evaluation. 
 ## Pre-trained Models
 
-Pre-trained model can be found in the `saved-models` directory. Currently we are sharing the weights of the best-performing model (Attention U-Net trained on depth maps and geometry renders).
+Pre-trained model can be found in the `saved-models` directory. Currently, we are sharing the weights of the Attention U-Net model trained on all three inpu types (depth only, geom only, depth+geom).
 
 ## GitHub Page
 Additional information about method and dataset can be found [here](https://tiborkubik.github.io/Robust-Teeth-Detection-in-3D-Dental-Scans/).
