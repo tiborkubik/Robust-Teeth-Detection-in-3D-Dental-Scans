@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+## Welcome to GitHub Page for the project I've created as my Bachelor's Thesis and later presented at [BIOIMAGING '22 conference](https://http://www.bioimaging.biostec.org/).
 
-You can use the [editor on GitHub](https://github.com/tiborkubik/Robust-Teeth-Detection-in-3D-Dental-Scans-by-Automated-Multi-View-Landmarking/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+The primary objective of this page is to present summary of the paper as well as to hold all the necessary links at one place (code, testing dataset, ...).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Method Summary
 
-### Markdown
+tbd
+### Overall Results
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+tbd
 
-```markdown
-Syntax highlighted code block
+### Available Testing Dataset
 
-# Header 1
-## Header 2
-### Header 3
+### Contact
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/tiborkubik/Robust-Teeth-Detection-in-3D-Dental-Scans-by-Automated-Multi-View-Landmarking/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Do not hesitate to ask in case you have any questions -- my LinkedIn profile: [click](https://www.linkedin.com/in/tibor-kub%C3%ADk-7a4364181/) or write me an email: [click](mailto:xkubik34@stud.fit.vutbr.cz).
