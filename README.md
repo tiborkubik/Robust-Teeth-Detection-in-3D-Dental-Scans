@@ -17,24 +17,23 @@ pip install -r requirements.txt
 
 To train the model(s) in the paper, run this command:
 
-```tbd
 ```
+python train.py --network-name="AttUNet" --input-format="depth+geom" --folder-path="path/to/your/2Ddataset"
+```
+
+This will train the Attention U-Net model on a dataset of depth maps and geometry renders with default hyperparameters setup. Please check the `train.py` script to check how to specify different parameter values.
 
 ## Evaluation
 
 To evaluate the best-performing model (Attention U-Net), run:
 
-```tbd
 ```
+python evaluate.py --mode="performance" --path="../test-data/" --network-path="../saved-models/Att-UNet-depth-geom.pt" --network-name="AttentionUNet"
+```
+In performance mode, the performance measurements are collected and analyzed. Path specifies the folder containing `stl` meshes for evaluation. 
 ## Pre-trained Models
 
-Pre-trained models are in the **tbd** directory.
-
-## Results
-
-Our framework achieves the following performance:
-
-tbd
+Pre-trained model can be found in the `saved-models` directory. Currently we are sharing the weights of the best-performing model (Attention U-Net trained on depth maps and geometry renders).
 
 ## GitHub Page
 Additional information about method and dataset can be found [here](https://tiborkubik.github.io/Robust-Teeth-Detection-in-3D-Dental-Scans/).
