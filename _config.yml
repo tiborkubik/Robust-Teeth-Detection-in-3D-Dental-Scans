@@ -1,3 +1,4 @@
 theme: jekyll-theme-slate
 title: Robust Teeth Detection in 3D Dental Scans by Automated Multi-View Landmarking
 description: DL-based framework for the detection of landmarks in intraoral scans of orthodontics cases
+show_downloads: true
