@@ -15,10 +15,10 @@ Our method aims to bring automation in the process of orthodontics treatment. So
 On a testing dataset of complicated orthodontic cases, we report the landmarking accuracy of **0.75 +- 0.96 mm**. As for the missing teeth, our method detects correctly the presence of teeth in **97.68%** cases. These results are achieved using Attention U-Net, 100 viewpoints and RANSAC post-processing.
 
 ### Available Testing Dataset
-Unfortunately, we are not allowed to share the whole dataset which we've used for the training, validation, and testing. However, to compare are results with other frameworks for orthodontic landmark detection, we are sharing a portion of the test set. You can download 20 meshes for the testing here: [tbd](https://tbd).
+Unfortunately, we are not allowed to share the whole dataset which we've used for the training, validation, and testing. However, to compare are results with other frameworks for orthodontic landmark detection, we are sharing a portion of the test set. You can download 20 meshes for the testing here: [tbd](https://tbd) (**NOTE: Currently, we are waiting for the approval from the owner of the dataset**).
 
 #### Results on the Public Testing Subset
-For a fair comparison, we've measured the landmarking accuracy and teeth detection accuracy solely on the public portion of the test set. Among all the test cases, we've tried to share the challenging ones. Our method achieves following results: **tbd**. 
+For a fair comparison, we've measured the landmarking accuracy and teeth detection accuracy solely on the public portion of the test set. Among all the test cases, we've tried to share the challenging ones. Our method achieves following results: **tbd after the approval**. 
 
 ### Contact
 Do not hesitate to ask in case you have any questions -- my LinkedIn profile: [click](https://www.linkedin.com/in/tibor-kub%C3%ADk-7a4364181/) or write me an email: [click](mailto:xkubik34@stud.fit.vutbr.cz).
