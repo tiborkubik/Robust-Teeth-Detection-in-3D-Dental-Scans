@@ -35,7 +35,7 @@ python evaluate.py --path="../test-data/" --network-path="../saved-models/AttUNe
 In performance mode, the performance measurements are collected and analyzed. Path specifies the folder containing `stl` meshes for evaluation. 
 ## Pre-trained Models
 
-Pre-trained model can be found in the `saved-models` directory. Currently, we are sharing the weights of the Attention U-Net model trained on all three inpu types (depth only, geom only, depth+geom).
+To get the pre-trained models, we kindly ask you to contact us by sending an email to the following address: [xkubik34@stud.fit.vutbr.cz](xkubik34@stud.fit.vutbr.cz).
 
 ## GitHub Page
 Additional information about method and dataset can be found [here](https://tiborkubik.github.io/Robust-Teeth-Detection-in-3D-Dental-Scans/).
