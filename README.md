@@ -45,5 +45,15 @@ Additional information about method and dataset can be found [here](https://tibo
 If you find this code useful, please cite our paper:
 
 ```
-tbd
+@conference{bioimaging22,
+  author={Tibor Kubík. and Michal Španěl.},
+  title={Robust Teeth Detection in 3D Dental Scans by Automated Multi-view Landmarking},
+  booktitle={Proceedings of the 15th International Joint Conference on Biomedical Engineering Systems and Technologies - BIOIMAGING,},
+  year={2022},
+  pages={24-34},
+  publisher={SciTePress},
+  organization={INSTICC},
+  doi={10.5220/0010770700003123},
+  isbn={978-989-758-552-4},
+}
 ```
