@@ -1,5 +1,5 @@
 # Robust Teeth Detection in 3D Dental Scans by Automated Multi-View Landmarking
-This repository is the official implementation of [link tbd](tbd) presented at [BIOIMAGING '22 Conference](https://bioimaging.scitevents.org/). 
+This repository is the official implementation of the paper [Robust Teeth Detection in 3D Dental Scans by Automated Multi-View Landmarking](https://www.scitepress.org/PublicationsDetail.aspx?ID=6XIfWnl5LKU=&t=1) presented at [BIOIMAGING '22 Conference](https://bioimaging.scitevents.org/). 
 
 ![](media/prediction.gif)
 
