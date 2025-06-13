@@ -35,18 +35,18 @@ python evaluate.py --path="../test-data/" --network-path="../saved-models/AttUNe
 In performance mode, the performance measurements are collected and analyzed. Path specifies the folder containing `stl` meshes for evaluation. 
 ## Pre-trained Models
 
-To get the pre-trained models, we kindly ask you to contact us by sending an email to the following address: [xkubik34@stud.fit.vutbr.cz](xkubik34@stud.fit.vutbr.cz).
+Unfortunately, we are not able to share the pre-trained weights for our work, since it was trained on a private dataset. We apologize and thank you for your understanding.
 
 ## GitHub Page
-Additional information about method and dataset can be found [here](https://tiborkubik.github.io/Robust-Teeth-Detection-in-3D-Dental-Scans/).
+Additional information about the method and dataset can be found [here](https://tiborkubik.github.io/Robust-Teeth-Detection-in-3D-Dental-Scans/).
 
 ## Citation
 
-If you find this code useful, please cite our paper:
+If you find this work useful, please cite our paper:
 
 ```
 @conference{bioimaging22,
-  author={Tibor Kubík. and Michal Španěl.},
+  author={Tibor Kubík and Michal Španěl},
   title={Robust Teeth Detection in 3D Dental Scans by Automated Multi-view Landmarking},
   booktitle={Proceedings of the 15th International Joint Conference on Biomedical Engineering Systems and Technologies - BIOIMAGING,},
   year={2022},
